@@ -1,4 +1,4 @@
-Description
+
 # SpaceInvadersGame
 3 Player positions
 playerX =  370 
